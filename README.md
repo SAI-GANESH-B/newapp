@@ -1,4 +1,4 @@
-# Vote App
+# Vote App by  ( SAI GANESH B, PRADEEP RS ,BHARATH B REDDY )
 
 freeCodeCamp Build a Voting App created with the MERN stack
 
@@ -32,3 +32,6 @@ SECRET = 'ThisIsATemporarySecretKey'
 * bcrypt
 * jsonwebtoken
 * react
+ 
+ 
+ 
